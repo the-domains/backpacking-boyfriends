@@ -1,0 +1,28 @@
+name: Backpacking Boyfriends
+favicon: null
+layout_spectrum: 0.17985284118913114
+typography_spectrum: 0.27888187603093684
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8348817422520369
+  lightness: 0.646014031721279
+  saturation: 0.7982266319449991
+  rhythmicContrast: 0.013496313709765673
+purpose: []
